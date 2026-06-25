@@ -41,29 +41,17 @@ Right now, I'm at the stage where I want to take everything I've built independe
 
 ### 💡 Featured Projects
 
-#### 🧠 [AI Unified Smart Dashboard](#)
-A FastAPI + React.js dashboard powered by OpenAI GPT-4o, integrating Education, Shopping, Food, and Travel modules into one unified AI assistant.
-
-#### 📚 [Study Buddy AI Assistant](#)
-A FastAPI + Gemini API powered study companion — notes upload, AI summaries, auto-generated quizzes, flashcards, and weak-area tracking.
-
 #### 📄 [ResumeIQ](#)
 A Flask-based resume analyzer using the Claude API for ATS scoring, skills extraction, and job description matching.
 
-#### 🔎 [AI Research Agent](#)
-A FastAPI-powered research assistant using the Claude API with real-time SSE streaming and a React frontend.
 
 #### 😊 [Emotion Detection Using Facial Expression](#)
 A Machine Learning project using Python, OpenCV, and a CNN model to recognize emotions (happy, sad, angry, neutral, surprised) in real time from a webcam feed.
 
-> Replace `#` with your actual repo links once added.
 
 ---
 
-### 📊 Top Languages
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deepasharma04332-sketch&theme=dark&hide_border=false&layout=compact)
 
----
 
 ### 🎯 Current Goals
 - Land an internship/entry-level role in Full-Stack Development or AI/ML Engineering
