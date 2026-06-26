@@ -8,18 +8,17 @@
 
 ---
 
-### 🚀 About Me
+### ## 🚀 About Me
 
-I'm a BCA student who got into tech the way most people do — by being curious about how things actually work, not just using them. Somewhere along the way, that curiosity turned into building: full-stack apps, AI and Machine Learning powered tools, dashboards that try to solve a real problem instead of just looking good in a portfolio.
+I got into tech because I wanted to know how things actually work, not just how to use them. That curiosity turned into a habit of building — full-stack apps, AI and ML powered tools, dashboards that try to solve a real problem instead of just looking good on a portfolio page.
 
-What I care about most is the **complete picture** of a project — not just "does the model work," but does the backend hold up, does the frontend make sense to an actual user, and could this realistically be deployed and used by someone outside my own laptop? That mindset is why most of my projects involve a FastAPI/Flask backend, a React.js frontend, and either an LLM API (OpenAI, Gemini, Claude) or a trained Machine Learning model doing something genuinely useful — analyzing a resume, recognizing emotions from facial expressions, tutoring a student, or pulling together everyday tasks into one dashboard.
+For me, a project isn't done when the model works. It's done when the backend can actually handle real use and the frontend makes sense to someone who isn't me. That's why most of my work pairs a FastAPI/Flask backend with a React.js frontend, alongside either an LLM API or a trained Machine Learning model doing something genuinely useful — analyzing a resume, recognizing emotion from facial expressions, tutoring a student, or organizing everyday tasks into one dashboard.
 
-As a **Google Gemini Student Ambassador (2026)**, I've also started spending time on the other side of building — helping fellow students get past the "I opened ChatGPT once" stage and into actually understanding and using AI/ML tools with intention. I run sessions, share what I learn, and try to make AI feel less intimidating for people just starting out.
+As a Google Gemini Student Ambassador (2026), I spend part of my time on the other side of building — helping students move past "I opened an AI chatbot once" and into actually understanding what these tools can do and how to use them with intention.
 
-I've also tested myself outside my comfort zone — through the **Smart India Hackathon** and **Visionary Hackathon 2.0**, and a **GenAI Powered Data Analytics virtual internship** with Forage — each one pushing me to think faster, build under pressure, and work with real-world-style problems instead of textbook ones.
+I've also pushed myself through the Smart India Hackathon, Visionary Hackathon 2.0, and a GenAI Powered Data Analytics virtual internship with Forage — each one forcing me to think faster and work on real-world-style problems instead of textbook ones.
 
-Right now, I'm at the stage where I want to take everything I've built independently and bring it into a real team setting — which is why I'm actively looking for an **internship or entry-level role in Full-Stack Development or AI/ML Engineering**. I learn fastest by building things that have to actually work, and I'm looking for a place where I can keep doing that, just with higher stakes and more eyes on the code.
-
+Right now, I'm looking to take everything I've built independently into a real team — actively seeking an internship or entry-level role in Full-Stack Development or AI/ML Engineering. I learn fastest by building things that have to actually work, and I want to keep doing that with higher stakes and more eyes on the code.
 ---
 
 ### 🛠️ Tech Stack
