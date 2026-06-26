@@ -8,18 +8,15 @@
 
 ---
 
-### ## 🚀 About Me
+### 🚀 About Me
 
-I got into tech because I wanted to know how things actually work, not just how to use them. That curiosity turned into a habit of building — full-stack apps, AI and ML powered tools, dashboards that try to solve a real problem instead of just looking good on a portfolio page.
+I am a BCA student with a strong interest in Full-Stack Development and AI/ML. I enjoy building projects that solve real problems, not just demo-level ideas — usually a FastAPI/Flask backend, a React.js frontend, and either an LLM API (OpenAI, Gemini) or a trained Machine Learning model for tasks like resume analysis, emotion detection, AI tutoring, or task dashboards.
 
-For me, a project isn't done when the model works. It's done when the backend can actually handle real use and the frontend makes sense to someone who isn't me. That's why most of my work pairs a FastAPI/Flask backend with a React.js frontend, alongside either an LLM API or a trained Machine Learning model doing something genuinely useful — analyzing a resume, recognizing emotion from facial expressions, tutoring a student, or organizing everyday tasks into one dashboard.
+As a Google Gemini Student Ambassador (2026), I help fellow students understand and use AI/ML tools effectively through sessions and shared resources.
 
-As a Google Gemini Student Ambassador (2026), I spend part of my time on the other side of building — helping students move past "I opened an AI chatbot once" and into actually understanding what these tools can do and how to use them with intention.
+I have also participated in the Smart India Hackathon, Visionary Hackathon 2.0, and completed a GenAI Powered Data Analytics virtual internship with Forage.
 
-I've also pushed myself through the Smart India Hackathon, Visionary Hackathon 2.0, and a GenAI Powered Data Analytics virtual internship with Forage — each one forcing me to think faster and work on real-world-style problems instead of textbook ones.
-
-Right now, I'm looking to take everything I've built independently into a real team — actively seeking an internship or entry-level role in Full-Stack Development or AI/ML Engineering. I learn fastest by building things that have to actually work, and I want to keep doing that with higher stakes and more eyes on the code.
----
+I am currently looking for an internship or entry-level role in Full-Stack Development or AI/ML Engineering.
 
 ### 🛠️ Tech Stack
 
