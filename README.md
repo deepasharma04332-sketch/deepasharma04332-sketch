@@ -41,7 +41,7 @@ I am currently looking for an internship or entry-level role in Full-Stack Devel
 A simple web app to track my income and expenses, see where my money is going each month, and check spending trends over time.
 
 
-####  [Emotion Detection Using Facial Expression](#)
+####  Emotion detection using facial expression 
 A Machine Learning project using Python, OpenCV, and a CNN model to recognize emotions (happy, sad, angry, neutral, surprised) in real time from a webcam feed.
 
 
